@@ -14,7 +14,7 @@ body{padding-top:100px}
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
 .stui-header__logo{margin-top:15px}
-.stui-header__logo .logo{display:block;width:150px;height:50px;background:url(/statics/img/logo.png) no-repeat;background-position:50% 50%;background-size:cover}
+.stui-header__logo .logo{display:block;width:150px;height:50px;background:url(https://cdn.jsdelivr.net/gh/xiaoerlan1010/jjss@main/logo.png) no-repeat;background-position:50% 50%;background-size:cover}
 
 /* header-menu */
 .stui-header__menu{position:relative;margin-left:10px}
@@ -97,7 +97,7 @@ body{padding-top:100px}
 	.stui-header__side{float:none;position:absolute;top:0;left:150px;right:0;width:auto}
 	.stui-header__logo,.stui-header__menu{float:none}
 	.stui-header__logo{margin:10px 0 10px}
-	.stui-header__logo .logo{width:127px;height:30px;background:url(/statics/img/logo_min.png) no-repeat;background-position:50% 50%;background-size:cover}
+	.stui-header__logo .logo{width:127px;height:30px;background:url(https://cdn.jsdelivr.net/gh/xiaoerlan1010/jjss@main/logo_min.png) no-repeat;background-position:50% 50%;background-size:cover}
 	.stui-header__search{float:right;margin-top:10px}
 	.stui-header__menu{margin:0;padding:0;height:40px;line-height:40px}
 	.stui-header__menu:before{content:" ";position:absolute;left:0;top:0;right:0;width:100%;height:1px;-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-transform:scaleY(.5);transform:scaleY(.5)}
